@@ -1,0 +1,1042 @@
+[
+  {
+    "counter": 1,
+    "text": "Set temperature of Inheco block units --- A3-22C, A4-22C, D2-95C, D4-22C",
+    "loc": "A3"
+  },
+  {
+    "counter": 2,
+    "text": "Pick lid from A3",
+    "loc": "A3"
+  },
+  {
+    "counter": 3,
+    "text": "Place lid at A2",
+    "loc": "A2"
+  },
+  {
+    "counter": 4,
+    "text": "Pick lid from A4",
+    "loc": "A4"
+  },
+  {
+    "counter": 5,
+    "text": "Place lid at B2",
+    "loc": "B2"
+  },
+  {
+    "counter": 6,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 7,
+    "text": "Aspirate 12µL of vaporlock from column1 of the Biorad plate",
+    "loc": "A4"
+  },
+  {
+    "counter": 8,
+    "text": "Dispense in quadrant 1 of the 384 well plate at A3",
+    "loc": "A3"
+  },
+  {
+    "counter": 9,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 10,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 11,
+    "text": "Aspirate 12µL Hybridization Master Mix from column 2 – A4",
+    "loc": "A4"
+  },
+  {
+    "counter": 12,
+    "text": "Dispense in quadrant 2 of the 384 well plate at A3",
+    "loc": "A3"
+  },
+  {
+    "counter": 13,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 14,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 15,
+    "text": "Aspirate 7µL Depletion Master Mix from column 3 – A4",
+    "loc": "A4"
+  },
+  {
+    "counter": 16,
+    "text": "Dispense in quadrant 3 of the 384 well plate at A3",
+    "loc": "A3"
+  },
+  {
+    "counter": 17,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 18,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 19,
+    "text": "Aspirate 10µL Hybridization Master Mix from quadrant 2 of A3",
+    "loc": "A3"
+  },
+  {
+    "counter": 20,
+    "text": "Dispense 10µL Hybridization Master Mix in B4 (Samples)",
+    "loc": "B4"
+  },
+  {
+    "counter": 21,
+    "text": "Mix",
+    "loc": "B4"
+  },
+  {
+    "counter": 22,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 23,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 24,
+    "text": "Aspirate 10µL of vaporLock from A3 (quadrant 1)",
+    "loc": "A3"
+  },
+  {
+    "counter": 25,
+    "text": "Dispense at B4",
+    "loc": "B4"
+  },
+  {
+    "counter": 26,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 27,
+    "text": "Wait for temp- thermal locator 3 (D2) to reach 95C",
+    "loc": "D2"
+  },
+  {
+    "counter": 28,
+    "text": "Pick samples from B4",
+    "loc": "B4"
+  },
+  {
+    "counter": 29,
+    "text": "Place samples at D2",
+    "loc": "D2"
+  },
+  {
+    "counter": 30,
+    "text": "Pick lid from B2",
+    "loc": "B2"
+  },
+  {
+    "counter": 31,
+    "text": "Place lid at D2 to cover the samples",
+    "loc": "D2"
+  },
+  {
+    "counter": 32,
+    "text": "Incubate for 2 minutes at 95C",
+    "loc": "D2"
+  },
+  {
+    "counter": 33,
+    "text": "Change temp of thermal locator 3 to 49C",
+    "loc": "D2"
+  },
+  {
+    "counter": 34,
+    "text": "Pick lid from D2 to uncover the samples",
+    "loc": "D2"
+  },
+  {
+    "counter": 35,
+    "text": "Place lid at B2",
+    "loc": "B2"
+  },
+  {
+    "counter": 36,
+    "text": "Pick lid at A2",
+    "loc": "A2"
+  },
+  {
+    "counter": 37,
+    "text": "Place lid at A4",
+    "loc": "A4"
+  },
+  {
+    "counter": 38,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 39,
+    "text": "Aspirate 5µL of Depletion Master Mix from A3 – quadrant 3",
+    "loc": "A3"
+  },
+  {
+    "counter": 40,
+    "text": "Dispense 5µL @D2",
+    "loc": "D2"
+  },
+  {
+    "counter": 41,
+    "text": "Mix",
+    "loc": "D2"
+  },
+  {
+    "counter": 42,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 43,
+    "text": "Pick lid from B2",
+    "loc": "B2"
+  },
+  {
+    "counter": 44,
+    "text": "Place lid at D2",
+    "loc": "D2"
+  },
+  {
+    "counter": 45,
+    "text": "Incubate samples @D2 for 30 minutes",
+    "loc": "D2"
+  },
+  {
+    "counter": 46,
+    "text": "Change temp of thermal locator 3 to 37",
+    "loc": "D2"
+  },
+  {
+    "counter": 47,
+    "text": "Pick lid from D2",
+    "loc": "D2"
+  },
+  {
+    "counter": 48,
+    "text": "Place lid at B2",
+    "loc": "B2"
+  },
+  {
+    "counter": 49,
+    "text": "Pick sample plate from D2",
+    "loc": "D2"
+  },
+  {
+    "counter": 50,
+    "text": "Place sample plate at D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 51,
+    "text": "Set temp of thermal locator 3 to 37",
+    "loc": "D2"
+  },
+  {
+    "counter": 52,
+    "text": "Pick lid from C2",
+    "loc": "C2"
+  },
+  {
+    "counter": 53,
+    "text": "Place lid at A2",
+    "loc": "A2"
+  },
+  {
+    "counter": 54,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 55,
+    "text": "Mix beads @ C2 (top plate)",
+    "loc": "C2"
+  },
+  {
+    "counter": 56,
+    "text": "Aspirate 55µL of Beads",
+    "loc": "C2"
+  },
+  {
+    "counter": 57,
+    "text": "Dispense all in sample plate @D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 58,
+    "text": "Mix",
+    "loc": "D4"
+  },
+  {
+    "counter": 59,
+    "text": "Set temp of thermal locator 3 to 37 for EtOH drying",
+    "loc": "D3"
+  },
+  {
+    "counter": 60,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 61,
+    "text": "Pick lid from A2",
+    "loc": "A2"
+  },
+  {
+    "counter": 62,
+    "text": "Place lid at C2",
+    "loc": "C2"
+  },
+  {
+    "counter": 63,
+    "text": "Incubate samples for 10 minutes @D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 64,
+    "text": "Pick lid from A4",
+    "loc": "A4"
+  },
+  {
+    "counter": 65,
+    "text": "Place lid at A2",
+    "loc": "A2"
+  },
+  {
+    "counter": 66,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 67,
+    "text": "Aspirate 24µL from column 4 of Biorad plate @A4",
+    "loc": "A4"
+  },
+  {
+    "counter": 68,
+    "text": "Dispense in quadrant 4 of the 384 well plate @A3",
+    "loc": "A3"
+  },
+  {
+    "counter": 69,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 70,
+    "text": "Pick lid at A2",
+    "loc": "A2"
+  },
+  {
+    "counter": 71,
+    "text": "Place lid at A3",
+    "loc": "A3"
+  },
+  {
+    "counter": 72,
+    "text": "Wait for timer",
+    "loc": ""
+  },
+  {
+    "counter": 73,
+    "text": "Pick sample plate from D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 74,
+    "text": "Place sample plate at B4 (magnet with no spacer)",
+    "loc": "B4"
+  },
+  {
+    "counter": 75,
+    "text": "Incubate for 5 minutes",
+    "loc": "B4"
+  },
+  {
+    "counter": 76,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 77,
+    "text": "Aspirate 90µL of supernatant",
+    "loc": "B4"
+  },
+  {
+    "counter": 78,
+    "text": "Dispense in waste container A5",
+    "loc": "A5"
+  },
+  {
+    "counter": 79,
+    "text": "Tip touch",
+    "loc": "A5"
+  },
+  {
+    "counter": 80,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 81,
+    "text": "Pick lid from B5",
+    "loc": "B5"
+  },
+  {
+    "counter": 82,
+    "text": "Place lid at C5",
+    "loc": "C5"
+  },
+  {
+    "counter": 83,
+    "text": "Pick sample plate from B4",
+    "loc": "B4"
+  },
+  {
+    "counter": 84,
+    "text": "Place sample plate at C4 (Magnet with spacer)",
+    "loc": "C4"
+  },
+  {
+    "counter": 85,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 86,
+    "text": "Aspirate 150µL of 80% EtOH from B5",
+    "loc": "B5"
+  },
+  {
+    "counter": 87,
+    "text": "Dispense 150µL of 80% EtOH into C4",
+    "loc": "C4"
+  },
+  {
+    "counter": 88,
+    "text": "Wait for 30 s",
+    "loc": "C4"
+  },
+  {
+    "counter": 89,
+    "text": "Aspirate 157µL from C4",
+    "loc": "C4"
+  },
+  {
+    "counter": 90,
+    "text": "Dispense all into liquid waste @A5",
+    "loc": "A5"
+  },
+  {
+    "counter": 91,
+    "text": "Tip touch @A5",
+    "loc": "A5"
+  },
+  {
+    "counter": 92,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 93,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 94,
+    "text": "Aspirate 150µL of 80% EtOH from B5",
+    "loc": "B5"
+  },
+  {
+    "counter": 95,
+    "text": "Dispense 150µL of 80% EtOH into C4",
+    "loc": "C4"
+  },
+  {
+    "counter": 96,
+    "text": "Wait for 30 s",
+    "loc": "C4"
+  },
+  {
+    "counter": 97,
+    "text": "Aspirate 157µL from C4",
+    "loc": "C4"
+  },
+  {
+    "counter": 98,
+    "text": "Dispense all into liquid waste @A5",
+    "loc": "A5"
+  },
+  {
+    "counter": 99,
+    "text": "Tip touch @A5",
+    "loc": "A5"
+  },
+  {
+    "counter": 100,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 101,
+    "text": "Pick lid from C5",
+    "loc": "C5"
+  },
+  {
+    "counter": 102,
+    "text": "Place lid at B5",
+    "loc": "B5"
+  },
+  {
+    "counter": 103,
+    "text": "Pick sample plate from C4",
+    "loc": "C4"
+  },
+  {
+    "counter": 104,
+    "text": "Place sample plate at D2",
+    "loc": "D2"
+  },
+  {
+    "counter": 105,
+    "text": "Incubate for 2 minutes",
+    "loc": "D2"
+  },
+  {
+    "counter": 106,
+    "text": "Pick sample plate from D2",
+    "loc": "D2"
+  },
+  {
+    "counter": 107,
+    "text": "Place sample plate at D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 108,
+    "text": "Pick lid from A3",
+    "loc": "A3"
+  },
+  {
+    "counter": 109,
+    "text": "Place lid at A4",
+    "loc": "A4"
+  },
+  {
+    "counter": 110,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 111,
+    "text": "Aspirate 22µL of DNase Digestion Master Mix from A3 quadrant 4",
+    "loc": "A3"
+  },
+  {
+    "counter": 112,
+    "text": "Dispense all into D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 113,
+    "text": "Mix",
+    "loc": "D4"
+  },
+  {
+    "counter": 114,
+    "text": "Full dispense",
+    "loc": "D4"
+  },
+  {
+    "counter": 115,
+    "text": "Incubate plate for 5 minutes",
+    "loc": "D4"
+  },
+  {
+    "counter": 116,
+    "text": "Mix",
+    "loc": "D4"
+  },
+  {
+    "counter": 117,
+    "text": "Full dispense",
+    "loc": "D4"
+  },
+  {
+    "counter": 118,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 119,
+    "text": "Pick sample plate from D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 120,
+    "text": "Place sample plate at C4 (Magnet with spacer)",
+    "loc": "C4"
+  },
+  {
+    "counter": 121,
+    "text": "Set temp of thermal locator 4 to 37C",
+    "loc": "D4"
+  },
+  {
+    "counter": 122,
+    "text": "Incubate sample plate on magnet with spacer for 3 minutes",
+    "loc": "C4"
+  },
+  {
+    "counter": 123,
+    "text": "Pick sample plate from A2",
+    "loc": "A2"
+  },
+  {
+    "counter": 124,
+    "text": "Place sample plate at D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 125,
+    "text": "Set temp of thermal locator 4 to 37C",
+    "loc": "D4"
+  },
+  {
+    "counter": 126,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 127,
+    "text": "Aspirate 20µL of sample from C4",
+    "loc": "C4"
+  },
+  {
+    "counter": 128,
+    "text": "Dispense all in D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 129,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 130,
+    "text": "Pick lid from A4",
+    "loc": "A4"
+  },
+  {
+    "counter": 131,
+    "text": "Place lid at D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 132,
+    "text": "Discard Bead plate at C4",
+    "loc": "C4"
+  },
+  {
+    "counter": 133,
+    "text": "Incubate for 30 minutes",
+    "loc": "D4"
+  },
+  {
+    "counter": 134,
+    "text": "Set temp of thermal locator 4 to 22C",
+    "loc": "D4"
+  },
+  {
+    "counter": 135,
+    "text": "Dispose lid @C2",
+    "loc": "C2"
+  },
+  {
+    "counter": 136,
+    "text": "Pick lid from D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 137,
+    "text": "Place lid at A4",
+    "loc": "A4"
+  },
+  {
+    "counter": 138,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 139,
+    "text": "Mix beads @C2 (Top plate)",
+    "loc": "C2"
+  },
+  {
+    "counter": 140,
+    "text": "Aspirate 44µL of beads from C2",
+    "loc": "C2"
+  },
+  {
+    "counter": 141,
+    "text": "Dispense all at D4 into the samples",
+    "loc": "D4"
+  },
+  {
+    "counter": 142,
+    "text": "Mix sample and beads",
+    "loc": "D4"
+  },
+  {
+    "counter": 143,
+    "text": "Full dispense",
+    "loc": "D4"
+  },
+  {
+    "counter": 144,
+    "text": "Set temp of thermal locator 3 to 37C for drying",
+    "loc": "D2"
+  },
+  {
+    "counter": 145,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 146,
+    "text": "Discard Ampure bead plate @C2",
+    "loc": "C2"
+  },
+  {
+    "counter": 147,
+    "text": "Update consumable to RSB @C2",
+    "loc": "C2"
+  },
+  {
+    "counter": 148,
+    "text": "Incubate the samples and bead for 10 minutes",
+    "loc": "D4"
+  },
+  {
+    "counter": 149,
+    "text": "Pick sample plate from D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 150,
+    "text": "Place sample plate at B4 (magnet with no spacer)",
+    "loc": "B4"
+  },
+  {
+    "counter": 151,
+    "text": "Incubate on the magnet with no spacer for 5 minutes",
+    "loc": "B4"
+  },
+  {
+    "counter": 152,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 153,
+    "text": "Aspirate 64µL of supernatant from B4",
+    "loc": "B4"
+  },
+  {
+    "counter": 154,
+    "text": "Dispense all in the waste container @A5",
+    "loc": "A5"
+  },
+  {
+    "counter": 155,
+    "text": "Tip touch",
+    "loc": "A5"
+  },
+  {
+    "counter": 156,
+    "text": "Eject",
+    "loc": "D5"
+  },
+  {
+    "counter": 157,
+    "text": "Pick lid from B5",
+    "loc": "B5"
+  },
+  {
+    "counter": 158,
+    "text": "Place lid at C5",
+    "loc": "C5"
+  },
+  {
+    "counter": 159,
+    "text": "Pick sample plate from B4",
+    "loc": "B4"
+  },
+  {
+    "counter": 160,
+    "text": "Place sample plate at C4 (Magnet with spacer)",
+    "loc": "C4"
+  },
+  {
+    "counter": 161,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 162,
+    "text": "Aspirate 150µL of 80% EtOH from B5",
+    "loc": "B5"
+  },
+  {
+    "counter": 163,
+    "text": "Dispense 150µL of 80% EtOH into C4",
+    "loc": "C4"
+  },
+  {
+    "counter": 164,
+    "text": "Wait for 30 s",
+    "loc": "C4"
+  },
+  {
+    "counter": 165,
+    "text": "Aspirate 157µL from C4",
+    "loc": "C4"
+  },
+  {
+    "counter": 166,
+    "text": "Dispense all into liquid waste @A5",
+    "loc": "A5"
+  },
+  {
+    "counter": 167,
+    "text": "Tip touch @A5",
+    "loc": "A5"
+  },
+  {
+    "counter": 168,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 169,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 170,
+    "text": "Aspirate 150µL of 80% EtOH from B5",
+    "loc": "B5"
+  },
+  {
+    "counter": 171,
+    "text": "Dispense 150µL of 80% EtOH into C4",
+    "loc": "C4"
+  },
+  {
+    "counter": 172,
+    "text": "Wait for 30 s",
+    "loc": "C4"
+  },
+  {
+    "counter": 173,
+    "text": "Aspirate 157µL from C4",
+    "loc": "C4"
+  },
+  {
+    "counter": 174,
+    "text": "Dispense all into liquid waste @A5",
+    "loc": "A5"
+  },
+  {
+    "counter": 175,
+    "text": "Tip touch @A5",
+    "loc": "A5"
+  },
+  {
+    "counter": 176,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 177,
+    "text": "Pick lid from C5",
+    "loc": "C5"
+  },
+  {
+    "counter": 178,
+    "text": "Place lid at B5",
+    "loc": "B5"
+  },
+  {
+    "counter": 179,
+    "text": "Pick sample plate from C4",
+    "loc": "C4"
+  },
+  {
+    "counter": 180,
+    "text": "Place sample plate at D2",
+    "loc": "D2"
+  },
+  {
+    "counter": 181,
+    "text": "Incubate @37C for 2 minutes",
+    "loc": "D2"
+  },
+  {
+    "counter": 182,
+    "text": "Pick sample plate from D2",
+    "loc": "D2"
+  },
+  {
+    "counter": 183,
+    "text": "Place sample plate at D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 184,
+    "text": "Pick lid from B2",
+    "loc": "B2"
+  },
+  {
+    "counter": 185,
+    "text": "Place lid at A3",
+    "loc": "A3"
+  },
+  {
+    "counter": 186,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 187,
+    "text": "Aspirate 13µL of water from B2",
+    "loc": "B2"
+  },
+  {
+    "counter": 188,
+    "text": "Dispense 13µL of water on dried beads at D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 189,
+    "text": "Full dispense",
+    "loc": "D4"
+  },
+  {
+    "counter": 190,
+    "text": "Mix",
+    "loc": "D4"
+  },
+  {
+    "counter": 191,
+    "text": "Full dispense",
+    "loc": "D4"
+  },
+  {
+    "counter": 192,
+    "text": "Incubate the plate for 5 minutes",
+    "loc": "D4"
+  },
+  {
+    "counter": 193,
+    "text": "Mix",
+    "loc": "D4"
+  },
+  {
+    "counter": 194,
+    "text": "Full dispense",
+    "loc": "D4"
+  },
+  {
+    "counter": 195,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 196,
+    "text": "Pick sample plate from D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 197,
+    "text": "Place sample plate at C4 (Magnet with spacer)",
+    "loc": "C4"
+  },
+  {
+    "counter": 198,
+    "text": "Incubate sample plate on the magnet for 3 minutes",
+    "loc": "C4"
+  },
+  {
+    "counter": 199,
+    "text": "Pick Biorad from C2",
+    "loc": "C2"
+  },
+  {
+    "counter": 200,
+    "text": "Place biorad plate at D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 201,
+    "text": "Set temp of D4 to 4C",
+    "loc": "D4"
+  },
+  {
+    "counter": 202,
+    "text": "Dialog box to replace the plate to Biorad semi skirted plate----- Not sure WHY?",
+    "loc": ""
+  },
+  {
+    "counter": 203,
+    "text": "Load tips",
+    "loc": "B3"
+  },
+  {
+    "counter": 204,
+    "text": "Aspirate 11µL from C4",
+    "loc": "C4"
+  },
+  {
+    "counter": 205,
+    "text": "Update consumables to a semiskirted plate @D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 206,
+    "text": "Dispense All @D4",
+    "loc": "D4"
+  },
+  {
+    "counter": 207,
+    "text": "Eject tips",
+    "loc": "D5"
+  },
+  {
+    "counter": 208,
+    "text": "Move head into reserve tip box position",
+    "loc": "A1"
+  }
+]
